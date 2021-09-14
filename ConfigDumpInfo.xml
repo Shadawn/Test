@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="CommonModule.Тест_А1СписокМеханизмов" id="33ddf8b7-7670-4931-bf91-7bac92e38266" configVersion="07860e0ba24386847eb6a641abfca981336e1b33"/>
+		<Metadata name="CommonModule.Тест_А1СписокМеханизмов.Module" id="33ddf8b7-7670-4931-bf91-7bac92e38266.0" configVersion="b1229fa04e60b0eb54dbc714779aa5a745eaa050"/>
+		<Metadata name="Configuration.Тест" id="00e0a0c6-72ca-4fff-94c0-bf9b67f32e10" configVersion="dca320eeac58ee3028afd532e63c6ee1f8cdbe3d"/>
+		<Metadata name="InformationRegister.СтатусыДокументов" id="2cf07cd2-f00b-43a4-b179-a70642ef028e" configVersion="50cdab4cbeda6468ab8ed6914e30d22e3bb0720a"/>
+		<Metadata name="InformationRegister.СтатусыДокументов.RecordSetModule" id="2cf07cd2-f00b-43a4-b179-a70642ef028e.1" configVersion="f3a8cef0f8cc18fe63feb6326af045b86eff3b1b"/>
+		<Metadata name="Language.Русский" id="cae45f31-9e63-4340-badc-429df8333370" configVersion="02cf3c40496d5594c9cec7b5b0f86931ee4eaa83"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
